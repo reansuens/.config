@@ -1,6 +1,6 @@
 
 
-# Alacritty Configuration - Cyberpunk Aesthetic for Hyprland
+# Alacritty Configuration 
 
 [env]
 TERM = "xterm-256color"
