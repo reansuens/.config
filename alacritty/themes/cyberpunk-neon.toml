@@ -1,0 +1,40 @@
+
+# Cyberpunk Neon — Alacritty port
+# Author: Theo (theo-grivel)
+# License: CC-BY-SA-4.0
+# Source: https://github.com/Roboron3042/Cyberpunk-Neon
+
+[colors.primary]
+background = "#000b1e"
+foreground = "#0abdc6"
+
+
+[colors.selection]
+background = "#000000"  # fully transparent black (alpha = 00)
+text       = "#000000"  # semi-transparent white (~50% opacity)
+
+
+[colors.cursor]
+cursor = "#0abdc6"
+text   = "#000b1e"
+
+[colors.normal]
+black   = "#000b1e"  # color0
+red     = "#ff0000"  # color1
+green   = "#d300c4"  # color2
+yellow  = "#f57800" # color3
+blue    = "#133e7c"  # color4
+magenta = "#711c91"  # color5
+cyan    = "#0abdc6"  # color6
+white   = "#0abdc6"  # color7
+
+[colors.bright]
+black   = "#1c61c2"  # color8
+red     = "#ff0000"  # color9
+green   = "#d300c4"  # color10
+yellow  = "#ff5780"  # color11
+blue    = "#00ff00"  # color12
+magenta = "#711c91"  # color13
+cyan    = "#0abdc6"  # color14
+white   = "#0abdc6"  # color15
+

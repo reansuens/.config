@@ -1,0 +1,33 @@
+# Neon grid flickers, pixels bleed electric blue.
+
+[colors.primary]
+ background = "#1a1b26"  # 1a1b26 Midnight cityscape, shadowed and deep
+ foreground = "#f8f8f2"  # f8f8f2 Ghost-white glow of data streams
+
+[colors.normal]
+ black = "#1e1f29"       # Asphalt beneath cyberfeet
+ red = "#ff5555"         # Danger sparks in the wire
+ green = "#50fa7b"       # Toxic synth-vines pulse alive
+ yellow = "#f1fa8c"      # Flickering warning beacon
+ blue = "#bd93f9"        # Neon rain reflections
+ magenta = "#ff79c6"     # Hackers’ phantom signature
+ cyan = "#8be9fd"        # Circuit trace illumination
+white = "#f8f8f2"       # Soft glow of ghost protocols
+
+[colors.bright]
+ black = "#6272a4"       # Electric dusk creeping low
+ red = "#ff6e6e"         # Pulse of rebellion
+ green = "#69ff94"       # Bioluminescent spikes
+ yellow = "#ffffa5"      # Holo-ads glitching
+ blue = "#d6acff"        # Data streams flood gates
+ magenta = "#ff92df"     # Neural net overload
+ cyan = "#a4ffff"        # Neon veins in the dark
+ white = "#ffffff"       # Pure static noise
+
+[colors.cursor]
+cursor = "#ff79c6"      # Neon cursor piercing void
+text = "#1a1b26"        # Dark matrix under glow
+
+[colors.selection]
+background = "#44475a"  # Shadow cloaks your command line
+text = "#ffffff"        # White-hot focus point 

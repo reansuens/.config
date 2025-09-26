@@ -1,0 +1,37 @@
+
+# Cyberpunk theme — Alacritty port
+# Source: https://raw.githubusercontent.com/jandre953/kitty-cyberpunk/master/cyberpunk.conf
+# License: MIT
+
+[colors.primary]
+background = "#120B10"
+foreground = "#FF0055"
+
+[colors.selection]
+background = "#000000"
+text       = "#FFFC58"  # cursor_text_color mapped from background
+
+
+[colors.cursor]
+cursor = "#00FFC8"
+text   = "#120B10"  # cursor_text_color = background
+
+[colors.normal]
+black   = "#120B10"  # fallback black as background
+red     = "#FF0055"  # primary magenta-red
+green   = "#00FFC8"  # cyber cyan
+yellow  = "#FFFC58"  # url yellow highlight
+blue    = "#563466"  # selection background as muted violet
+magenta = "#FF0055"  # main magenta
+cyan    = "#00FFC8"  # cyan accent
+white   = "#FFFC58"  # bright yellow accent
+
+[colors.bright]
+black   = "#101116"  # inactive border dark
+red     = "#FF0055"  # active border bright red
+green   = "#00FFC8"  # cyan highlight
+yellow  = "#FFFC58"  # bright yellow
+blue    = "#563466"  # muted violet
+magenta = "#FF0055"  # magenta power
+cyan    = "#00FFC8"  # cyan glow
+white   = "#FFFC58"  # url yellow

@@ -1,0 +1,71 @@
+
+# Alacritty Color Scheme - Hachiko
+# Author: Mert18
+
+[colors]
+cursor = { text = "#111111", cursor = "#FF7979" }
+
+[colors.primary]
+# Setting base primary foreground/background is optional here
+# since your tabs define their own, but including for completeness
+foreground = "#FFFAFA"
+background = "#000000"
+
+[colors.selection]
+text       = "#FFFAFA"
+background = "#870300"
+
+[colors.vi_mode_cursor]
+text   = "#111111"
+cursor = "#FF7979"
+
+[colors.search]
+matches = { foreground = "#FFFAFA", background = "#870300" }
+focused_match = { foreground = "#FFFAFA", background = "#870300" }
+
+[colors.hints]
+start = { foreground = "#FFFAFA", background = "#870300" }
+end   = { foreground = "#FFFAFA", background = "#870300" }
+
+# [colors.url]
+# foreground = "#FF7979"
+
+[colors.normal]
+black   = "#181818"
+red     = "#960042"
+green   = "#FF0000"
+yellow  = "#FF5D05"
+blue    = "#FF2044"
+magenta = "#FFEDCF"
+cyan    = "#6F0027"
+white   = "#FFDAF1"
+
+[colors.bright]
+black   = "#333333"
+red     = "#870300"
+green   = "#690000"
+yellow  = "#6F2700"
+blue    = "#333333"
+magenta = "#FFFFB5"
+cyan    = "#F50056"
+white   = "#FFE6DA"
+
+# [colors.tab_bar]
+# Active tab
+# active_tab = { foreground = "#FFFAFA", background = "#B1003C", font_style = "Bold" }
+# Inactive tabs
+# inactive_tab = { foreground = "#B1003C", background = "#FFFAFA" }
+# # Margin color
+# margin = { color = "None" }
+
+# [colors.mark1]
+# foreground = "#FFFAFA"
+# background = "#870300"
+
+# [colors.borders]
+# active   = "#FFFAFA"
+# inactive = "#870300"
+# bell     = "#870300"
+
+# [colors.visual_bell]
+# color = "None"

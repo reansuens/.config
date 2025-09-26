@@ -1,0 +1,69 @@
+
+
+# Alacritty Configuration - Cyberpunk Aesthetic for Hyprland
+
+[env]
+TERM = "xterm-256color"
+
+[window]
+opacity = 0.92
+blur = true
+decorations = "none"
+padding = { x = 10, y = 10 }
+dynamic_padding = true
+startup_mode = "Windowed"
+dimensions = { columns = 100, lines = 30 }
+
+[font]
+normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
+bold = { family = "JetBrainsMono Nerd Font", style = "Bold" }
+italic = { family = "JetBrainsMono Nerd Font", style = "Italic" }
+size = 11.0
+offset = { x = 0, y = 1 }
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[cursor]
+style = { shape = "Beam", blinking = "Always" }
+vi_mode_style = "Block"
+
+[selection]
+save_to_clipboard = true
+
+[colors.primary]
+background = "#0d0d0d"
+foreground = "#D8DEE9"
+
+[colors.cursor]
+text = "#0d0d0d"
+cursor = "#00FFFF"
+
+[colors.normal]
+black   = "#1a1a1a"
+red     = "#FF4B82"
+green   = "#8AFF80"
+yellow  = "#FFD580"
+blue    = "#80FFEA"
+magenta = "#D67FFF"
+cyan    = "#70B8BA"
+white   = "#D8DEE9"
+
+[colors.bright]
+black   = "#2e2e2e"
+red     = "#FF6E9C"
+green   = "#B2FF9E"
+yellow  = "#FFE5A0"
+blue    = "#A0FFF0"
+magenta = "#E2A9FF"
+cyan    = "#9BD4D6"
+white   = "#ECEFF4"
+
+[bell]
+animation = "EaseOutExpo"
+duration = 0
+color = "#FF00FF"
+
+[mouse]
+hide_when_typing = true
