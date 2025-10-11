@@ -44,8 +44,8 @@ window {
         rgba(255, 85, 85, 0.15) 0%,
         rgba(255, 85, 85, 0.1) 100%
     );
-    border: 1px solid #FF5555; /* mako border */
-    color: #FFFFFF; /* highlight text */
+    border: 1px solid #FF5555; 
+    color: #FFFFFF; 
 }
 
 #scroll {
@@ -54,6 +54,6 @@ window {
 
 #text {
     margin: 2px;
-    color: #FFB86C; /* ensure text uses mako color */
+    color: #FFB86C; 
 }
 
