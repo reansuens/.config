@@ -1,4 +1,4 @@
-include atheme
+include makotheme
 
 set adjust-open "best-fit"
 
