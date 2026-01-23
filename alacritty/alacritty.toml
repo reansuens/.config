@@ -113,5 +113,5 @@ x = 0
 y = 0
 
 [general]
-import = ["themes/hachiko.toml"]
+import = ["themes/blink.toml"]
 
