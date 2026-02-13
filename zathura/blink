@@ -9,6 +9,7 @@ set recolor-lightcolor      "#080202"
 set index-bg                "#080202"
 set render-loading-bg       "#080202"
 
+
 set default-fg              "#FCE9F1"
 set completion-fg           "#FCE9F1"
 set statusbar-fg            "#FCE9F1"
