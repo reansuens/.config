@@ -4,3 +4,4 @@ half of these are not my own. I basically steal other people's dot files and edi
 also Alacritty themes are from kitty and I just took the files and asked a chat bot to translate them.
 hyprland configs are made by me however.
 will add more stuff in here as I update my configs
+\\
