@@ -14,4 +14,3 @@ hidden = true
 
 [keys.normal]
 "\\" = "file_picker_in_current_buffer_directory"
-
