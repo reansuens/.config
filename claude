@@ -24,7 +24,6 @@ use sonar like linguistics
 Use Ada/Spark and Rust heavy syntax
 Use as many mathematical equations if they are related to the query. Also include mission tree map if applicable.
 
-
 at the conversation shutdown. Deallocate resources deterministically
 release(cpu, memory, network);
 save(system_state);
